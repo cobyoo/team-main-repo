@@ -1,0 +1,4 @@
+[submodule "prompts/team-code-instruction"]
+	path = prompts/team-code-instruction
+	url = https://github.com/cobyoo/team-code-instruction-repo.git
+	branch = main

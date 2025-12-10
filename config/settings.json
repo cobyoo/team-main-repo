@@ -1,0 +1,6 @@
+{
+  "project": "main-repo",
+  "model": "gpt-5.1",
+  "language": "ko",
+  "useSubmodule": true
+}
